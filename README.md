@@ -15,6 +15,6 @@ The goal of this project was to create a weather dashboard that can display the 
 - It would be more intuitive if the user could hit Enter on the keyboard to search in addition to clicking the search button.
 - Some elements of the page are not as mobile-friendly as they could be.
 
-![A screenshot of the Weather Dashboard](assets/images/WeatherDashboard.jpg).
+![A screenshot of the Weather Dashboard](assets/images/WeatherDashboard.png).
 
 ![Visit the deployed application] (https://emrendle.github.io/WeatherDashboard/).

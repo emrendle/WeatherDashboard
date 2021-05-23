@@ -64,7 +64,7 @@ function getFiveDay (fiveDayArray, temp, wind, humidity) {
             
             // setting text content for dynamic elements using the API data and moment.js variables defined above
             cardHeader.textContent = `${futureDate}`;
-            tempEl.textContent = `Temp: ${fiveDayArray[i].temp.day}`;
+            tempEl.textContent = `Temp: ${fiveDayArray[i].temp.day} F`;
             windEl.textContent = `Wind: ${fiveDayArray[i].wind_speed} mph`;
             humidityEl.textContent = `Humidity: ${fiveDayArray[i].humidity}%`;
 

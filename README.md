@@ -11,8 +11,9 @@ The goal of this project was to create a weather dashboard that can display the 
 - The user can enter a city into the search bar - if the city is found within the Open Weather API, the forecast results will be dynamically displayed on the page.
 - The user can see previous searches in the search history section of the page and click those buttons to generate the results of that search. 
 
-## Issues & Future Directions
+## Issues & Commentary
 - It would be more intuitive if the user could hit Enter on the keyboard to search in addition to clicking the search button.
+- Some elements of the page are not as mobile-friendly as they could be.
 
 ![A screenshot of the Weather Dashboard](assets/images/WeatherDashboard.jpg).
 
